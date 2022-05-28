@@ -78,7 +78,7 @@ a{
     z-index: 1;
     font-size: 22px;
     line-height: 23px;
-    color: #fff;
+    color: rgb(255, 115, 8);
     padding: 15px;
 }
 
@@ -94,7 +94,7 @@ a{
     height: 300px;
     width: 100%;
     border-radius: 4px;
-    box-shadow: 0 2px 5px 0 rgba(0,0,0,.5);
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.116);
     transition: .3s ease-in-out;
 }
 .slick a img:hover{
