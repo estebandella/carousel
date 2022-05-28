@@ -4,7 +4,7 @@ Mini proyecto CARRUSEL DE PRODUCTOS con JavaScript, HTML5, y CSS.
 
 Vista Previa:
 
-<img src="./Tema.JPG" width=600px>
+<img src="./tema.JPG" width=600px>
 <img src="./js_css_html.png" width=600px>
 
 
