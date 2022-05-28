@@ -146,27 +146,12 @@ a{
     }
 
     .slick-list{
-        width: 360px;
-        /* padding-right: 30px; */
+        overflow:auto;
     }
 
     .Carousel{
         width: 275px;
         margin: 0px auto;
         overflow: hidden;
-
     }
-
-    /*TITULO PRINCIPAL DEL CONTENEDOR*/
-    /* .Carousel h2{
-        font-size: 26px;
-        line-height: 38px;
-        padding-bottom: 24px;
-        opacity: .9;
-        text-transform: uppercase;
-        letter-spacing: 10px;
-        text-align: center;
-        color: rgb(237, 174, 0);
-    } */
-
   }
